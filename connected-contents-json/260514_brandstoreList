@@ -1,2376 +1,2835 @@
+
 [
 {
-"brand_id": "P1538",
-"randing_code": "SLD0169730"
-},
-
-{
-"brand_id": "P1525",
-"randing_code": "SLD0170580"
-},
-
-{
-"brand_id": "P4209",
-"randing_code": "SLD0172330"
-},
-
-{
-"brand_id": "P1903",
-"randing_code": "SLD3330330"
-},
-
-{
-"brand_id": "P3578",
-"randing_code": "SLD3880400"
-},
-
-{
-"brand_id": "P2056",
-"randing_code": "SLD3986330"
-},
-
-{
-"brand_id": "P2226",
-"randing_code": "SLD4211330"
-},
-
-{
-"brand_id": "P2720",
-"randing_code": "SLO1000000000039"
-},
-
-{
-"brand_id": "P1026",
-"randing_code": "SLO1000000003914"
-},
-
-{
-"brand_id": "P2923",
-"randing_code": "SLO1000000003954"
-},
-
-{
-"brand_id": "P4151",
-"randing_code": "SLO1000000014711"
-},
-
-{
-"brand_id": "P4914",
-"randing_code": "SLO1000000014925"
-},
-
-{
-"brand_id": "P4854",
-"randing_code": "SLO1000000015008"
-},
-
-{
-"brand_id": "P3006",
-"randing_code": "SLO1000000015016"
-},
-
-{
-"brand_id": "P3734",
-"randing_code": "SLO1000000015239"
-},
-
-{
-"brand_id": "P725",
-"randing_code": "SLO1000000015240"
+"brand_id": "P2022",
+"brand_nm": "BYC",
+"randing_code": "LO10003011"
 },
 
 {
 "brand_id": "P2557",
+"brand_nm": "CC콜렉트",
 "randing_code": "SLO1000000015242"
 },
 
 {
-"brand_id": "P44752",
-"randing_code": "SLO1000000015887"
-},
-
-{
-"brand_id": "P364",
-"randing_code": "SLO1000000202889"
-},
-
-{
-"brand_id": "P487",
-"randing_code": "SLO1000000203062"
-},
-
-{
-"brand_id": "P2687",
-"randing_code": "SLO1000000203063"
-},
-
-{
-"brand_id": "P5652",
-"randing_code": "SLO1000000203895"
-},
-
-{
-"brand_id": "P17572",
-"randing_code": "SLO1000000206103"
-},
-
-{
-"brand_id": "P751",
-"randing_code": "SLO1000000206104"
-},
-
-{
-"brand_id": "P3124",
-"randing_code": "SLO1000000206708"
-},
-
-{
-"brand_id": "P3809",
-"randing_code": "SLO1000000206829"
-},
-
-{
-"brand_id": "P38176",
-"randing_code": "SLO1000000206841"
-},
-
-{
-"brand_id": "P2023",
-"randing_code": "SLO1000000206951"
-},
-
-{
-"brand_id": "P3471",
-"randing_code": "SLO1000000206952"
-},
-
-{
-"brand_id": "P47810",
-"randing_code": "SLO1000000206953"
-},
-
-{
-"brand_id": "P2273",
-"randing_code": "SLO1000000206962"
-},
-
-{
-"brand_id": "P14146",
-"randing_code": "SLO1000000207008"
-},
-
-{
-"brand_id": "P48738",
-"randing_code": "SLO1000000207673"
-},
-
-{
-"brand_id": "P49472",
-"randing_code": "SLO1000000209094"
-},
-
-{
-"brand_id": "P40494",
-"randing_code": "SLO1000000209379"
-},
-
-{
-"brand_id": "P1124",
-"randing_code": "SLO1000000209605"
-},
-
-{
-"brand_id": "P4924",
-"randing_code": "SLO1000000209950"
-},
-
-{
-"brand_id": "P1198",
-"randing_code": "SLO1000000211523"
-},
-
-{
-"brand_id": "P10681",
-"randing_code": "SLO1000000212123"
-},
-
-{
-"brand_id": "P870",
-"randing_code": "SLO1000000212138"
-},
-
-{
-"brand_id": "P57050",
-"randing_code": "SLO1000000212881"
-},
-
-{
-"brand_id": "P38775",
-"randing_code": "SLO1000000214361"
-},
-
-{
-"brand_id": "P1768",
-"randing_code": "SLO1000000216838"
-},
-
-{
-"brand_id": "P3731",
-"randing_code": "SLO1000000217426"
-},
-
-{
-"brand_id": "P1920",
-"randing_code": "SLO1000000217580"
-},
-
-{
-"brand_id": "P32270",
-"randing_code": "SLO1000000217596"
-},
-
-{
-"brand_id": "P3132",
-"randing_code": "SLO1000000217655"
-},
-
-{
-"brand_id": "P774",
-"randing_code": "SLO1000000217656"
-},
-
-{
-"brand_id": "P4279",
-"randing_code": "SLO1000000217659"
-},
-
-{
-"brand_id": "P1991",
-"randing_code": "SLO1000000217660"
-},
-
-{
-"brand_id": "P4005",
-"randing_code": "SLO1000000217934"
-},
-
-{
-"brand_id": "P326",
-"randing_code": "SLO1000000218037"
-},
-
-{
-"brand_id": "P29198",
-"randing_code": "SLO1000000218039"
-},
-
-{
-"brand_id": "P2319",
-"randing_code": "SLO1000000218120"
-},
-
-{
-"brand_id": "P4394",
-"randing_code": "SLO1000000218172"
-},
-
-{
-"brand_id": "P23335",
-"randing_code": "SLO1000000218224"
-},
-
-{
-"brand_id": "P60322",
-"randing_code": "SLO1000000218338"
-},
-
-{
-"brand_id": "P4107",
-"randing_code": "SLO1000000218345"
-},
-
-{
-"brand_id": "P39834",
-"randing_code": "SLO1000000218364"
-},
-
-{
-"brand_id": "P65626",
-"randing_code": "SLO1000000218439"
+"brand_id": "P21846",
+"brand_nm": "CQR",
+"randing_code": "LD017316"
 },
 
 {
 "brand_id": "P43516",
+"brand_nm": "FC 바르셀로나",
 "randing_code": "SLO1000000218440"
 },
 
 {
-"brand_id": "P52615",
-"randing_code": "SLO1000000218461"
+"brand_id": "P61877",
+"brand_nm": "Jolyn",
+"randing_code": "SLO1000000220407"
 },
 
 {
-"brand_id": "P61708",
-"randing_code": "SLO1000000218462"
+"brand_id": "P4005",
+"brand_nm": "K2",
+"randing_code": "SLO1000000217934"
 },
 
 {
-"brand_id": "P32928",
-"randing_code": "SLO1000000218485"
+"brand_id": "P3124",
+"brand_nm": "MLB",
+"randing_code": "SLO1000000206708"
+},
+
+{
+"brand_id": "P17572",
+"brand_nm": "MLB 키즈",
+"randing_code": "SLO1000000206103"
+},
+
+{
+"brand_id": "P44594",
+"brand_nm": "PIGC",
+"randing_code": "LD016952"
+},
+
+{
+"brand_id": "P47178",
+"brand_nm": "SOTD",
+"randing_code": "SLO1000000221256"
+},
+
+{
+"brand_id": "P65025",
+"brand_nm": "tuwe",
+"randing_code": "SLO1000000220533"
+},
+
+{
+"brand_id": "P1920",
+"brand_nm": "VDL",
+"randing_code": "SLO1000000217580"
+},
+
+{
+"brand_id": "P22",
+"brand_nm": "VT코스메틱",
+"randing_code": "LD479040"
+},
+
+{
+"brand_id": "P602",
+"brand_nm": "WMF",
+"randing_code": "LD018166"
+},
+
+{
+"brand_id": "P16054",
+"brand_nm": "가네샤요가프랍스",
+"randing_code": "LO10038344"
+},
+
+{
+"brand_id": "P53",
+"brand_nm": "강강술래",
+"randing_code": "LO10010045"
+},
+
+{
+"brand_id": "P89",
+"brand_nm": "겐조",
+"randing_code": "SLO1000000218693"
+},
+
+{
+"brand_id": "P94",
+"brand_nm": "겐조 키즈",
+"randing_code": "SLO1000000218696"
+},
+
+{
+"brand_id": "P109",
+"brand_nm": "고려은단",
+"randing_code": "LD291664"
+},
+
+{
+"brand_id": "P25902",
+"brand_nm": "고려은단 헬스케어",
+"randing_code": "LD466356"
+},
+
+{
+"brand_id": "P127",
+"brand_nm": "골든듀",
+"randing_code": "LD018224"
+},
+
+{
+"brand_id": "P10449",
+"brand_nm": "골스튜디오",
+"randing_code": "LO10167021"
+},
+
+{
+"brand_id": "P57069",
+"brand_nm": "교보문고",
+"randing_code": "LO10113403"
+},
+
+{
+"brand_id": "P26587",
+"brand_nm": "굿라이프웍스",
+"randing_code": "LO10158346"
+},
+
+{
+"brand_id": "P14181",
+"brand_nm": "그레이멜린",
+"randing_code": "LO10050654"
+},
+
+{
+"brand_id": "P64888",
+"brand_nm": "그린핑거 베베그로우",
+"randing_code": "SLO1000000220413"
+},
+
+{
+"brand_id": "P198",
+"brand_nm": "글라스락",
+"randing_code": "LO10017739"
+},
+
+{
+"brand_id": "P201",
+"brand_nm": "글램팜",
+"randing_code": "LD255600"
+},
+
+{
+"brand_id": "P237",
+"brand_nm": "김정문알로에",
+"randing_code": "LO10148763"
+},
+
+{
+"brand_id": "P35354",
+"brand_nm": "깃든",
+"randing_code": "LO10036819"
+},
+
+{
+"brand_id": "P249",
+"brand_nm": "까사미아",
+"randing_code": "LD013540"
+},
+
+{
+"brand_id": "P252",
+"brand_nm": "까스텔바작",
+"randing_code": "LO10159232"
+},
+
+{
+"brand_id": "P26458",
+"brand_nm": "꼼파뇨",
+"randing_code": "LO10127483"
+},
+
+{
+"brand_id": "P271",
+"brand_nm": "꿈비",
+"randing_code": "SLO1000000221135"
+},
+
+{
+"brand_id": "P305",
+"brand_nm": "나이스클랍",
+"randing_code": "SLO1000000219196"
+},
+
+{
+"brand_id": "P315",
+"brand_nm": "나인식스뉴욕",
+"randing_code": "LD474690"
+},
+
+{
+"brand_id": "P326",
+"brand_nm": "내셔널지오그래픽",
+"randing_code": "SLO1000000218037"
+},
+
+{
+"brand_id": "P14448",
+"brand_nm": "네오젠",
+"randing_code": "LO10047679"
+},
+
+{
+"brand_id": "P349",
+"brand_nm": "네이처리퍼블릭",
+"randing_code": "LD279858"
+},
+
+{
+"brand_id": "P364",
+"brand_nm": "네파",
+"randing_code": "SLO1000000202889"
+},
+
+{
+"brand_id": "P393",
+"brand_nm": "노스페이스",
+"randing_code": "SLO1000000220146"
+},
+
+{
+"brand_id": "P58984",
+"brand_nm": "노운베러",
+"randing_code": "LO10146782"
+},
+
+{
+"brand_id": "P408",
+"brand_nm": "녹족",
+"randing_code": "SLO1000000220601"
+},
+
+{
+"brand_id": "P413",
+"brand_nm": "농심",
+"randing_code": "SLO1000000219794"
+},
+
+{
+"brand_id": "P423",
+"brand_nm": "누비지오",
+"randing_code": "LO10036062"
+},
+
+{
+"brand_id": "P32321",
+"brand_nm": "뉴라덤",
+"randing_code": "LO10040958"
+},
+
+{
+"brand_id": "P6414",
+"brand_nm": "뉴케어",
+"randing_code": "LO10046658"
+},
+
+{
+"brand_id": "P457",
+"brand_nm": "니베아",
+"randing_code": "SLO1000000219771"
+},
+
+{
+"brand_id": "P461",
+"brand_nm": "니코트",
+"randing_code": "LD471244"
+},
+
+{
+"brand_id": "P10572",
+"brand_nm": "니티드",
+"randing_code": "LO10154989"
+},
+
+{
+"brand_id": "P485",
+"brand_nm": "다우닝",
+"randing_code": "LD251590"
+},
+
+{
+"brand_id": "P487",
+"brand_nm": "다이나핏",
+"randing_code": "SLO1000000203062"
+},
+
+{
+"brand_id": "P536",
+"brand_nm": "닥터자르트",
+"randing_code": "LO10078089"
+},
+
+{
+"brand_id": "P537",
+"brand_nm": "닥터지",
+"randing_code": "SLO1000000219682"
+},
+
+{
+"brand_id": "P8865",
+"brand_nm": "단순생활",
+"randing_code": "SLO1000000221143"
+},
+
+{
+"brand_id": "P545",
+"brand_nm": "달바",
+"randing_code": "LD471193"
+},
+
+{
+"brand_id": "P5075",
+"brand_nm": "댑",
+"randing_code": "LD303769"
+},
+
+{
+"brand_id": "P35159",
+"brand_nm": "더 레노마",
+"randing_code": "LO10133197"
+},
+
+{
+"brand_id": "P593",
+"brand_nm": "더마픽스",
+"randing_code": "LO10058502"
+},
+
+{
+"brand_id": "P596",
+"brand_nm": "더바디샵",
+"randing_code": "LD013022"
+},
+
+{
+"brand_id": "P14146",
+"brand_nm": "더페이스샵",
+"randing_code": "SLO1000000207008"
+},
+
+{
+"brand_id": "P14340",
+"brand_nm": "더하르나이",
+"randing_code": "LO10160220"
+},
+
+{
+"brand_id": "P627",
+"brand_nm": "데니스골프",
+"randing_code": "LO10101186"
+},
+
+{
+"brand_id": "P6420",
+"brand_nm": "도깨비방망이",
+"randing_code": "SLO1000000221151"
+},
+
+{
+"brand_id": "P672",
+"brand_nm": "도로시",
+"randing_code": "LD323122"
+},
+
+{
+"brand_id": "P5090",
+"brand_nm": "도씨",
+"randing_code": "LO10150814"
+},
+
+{
+"brand_id": "P698",
+"brand_nm": "동서가구",
+"randing_code": "LD472178"
+},
+
+{
+"brand_id": "P10681",
+"brand_nm": "듀베티카",
+"randing_code": "SLO1000000212123"
+},
+
+{
+"brand_id": "P725",
+"brand_nm": "듀엘",
+"randing_code": "SLO1000000015240"
+},
+
+{
+"brand_id": "P728",
+"brand_nm": "듀오백",
+"randing_code": "LD015718"
+},
+
+{
+"brand_id": "P27041",
+"brand_nm": "듀테로",
+"randing_code": "LO10166567"
+},
+
+{
+"brand_id": "P57032",
+"brand_nm": "드로우핏우먼",
+"randing_code": "LO10138715"
+},
+
+{
+"brand_id": "P39912",
+"brand_nm": "드리울",
+"randing_code": "LO10022602"
+},
+
+{
+"brand_id": "P739",
+"brand_nm": "드시모네",
+"randing_code": "LD464811"
+},
+
+{
+"brand_id": "P64081",
+"brand_nm": "드헤베",
+"randing_code": "SLO1000000219443"
+},
+
+{
+"brand_id": "P746",
+"brand_nm": "디디에두보",
+"randing_code": "LD242384"
+},
+
+{
+"brand_id": "P62212",
+"brand_nm": "디디오스튜디오",
+"randing_code": "SLO1000000218667"
+},
+
+{
+"brand_id": "P751",
+"brand_nm": "디스커버리 익스페디션",
+"randing_code": "SLO1000000206104"
+},
+
+{
+"brand_id": "P38176",
+"brand_nm": "디스커버리 키즈",
+"randing_code": "SLO1000000206841"
+},
+
+{
+"brand_id": "P774",
+"brand_nm": "디젤",
+"randing_code": "SLO1000000217656"
+},
+
+{
+"brand_id": "P787",
+"brand_nm": "디펜드",
+"randing_code": "SLO1000000220408"
+},
+
+{
+"brand_id": "P802",
+"brand_nm": "라곰",
+"randing_code": "LO10120013"
+},
+
+{
+"brand_id": "P5652",
+"brand_nm": "라로슈포제",
+"randing_code": "SLO1000000203895"
+},
+
+{
+"brand_id": "P55566",
+"brand_nm": "라로제",
+"randing_code": "LO10153460"
+},
+
+{
+"brand_id": "P849",
+"brand_nm": "라코스테",
+"randing_code": "LO10165462"
+},
+
+{
+"brand_id": "P54001",
+"brand_nm": "라페어",
+"randing_code": "SLO1000000220545"
+},
+
+{
+"brand_id": "P870",
+"brand_nm": "락포트",
+"randing_code": "SLO1000000212138"
+},
+
+{
+"brand_id": "P895",
+"brand_nm": "랩",
+"randing_code": "LD011270"
+},
+
+{
+"brand_id": "P908",
+"brand_nm": "러쉬",
+"randing_code": "LD016174"
+},
+
+{
+"brand_id": "P914",
+"brand_nm": "레고",
+"randing_code": "LD410568"
+},
+
+{
+"brand_id": "P940",
+"brand_nm": "레드페이스",
+"randing_code": "LO10021160"
+},
+
+{
+"brand_id": "P65098",
+"brand_nm": "레스트먼트",
+"randing_code": "SLO1000000220569"
+},
+
+{
+"brand_id": "P27426",
+"brand_nm": "레이나모라",
+"randing_code": "LO10156872"
+},
+
+{
+"brand_id": "P952",
+"brand_nm": "레이디가구",
+"randing_code": "LO10018108"
+},
+
+{
+"brand_id": "P61741",
+"brand_nm": "레이로우",
+"randing_code": "SLO1000000218675"
+},
+
+{
+"brand_id": "P958",
+"brand_nm": "레이지비",
+"randing_code": "LD317298"
+},
+
+{
+"brand_id": "P64226",
+"brand_nm": "레이지지",
+"randing_code": "LO10166394"
+},
+
+{
+"brand_id": "P24544",
+"brand_nm": "레인스",
+"randing_code": "LO10132477"
+},
+
+{
+"brand_id": "P987",
+"brand_nm": "로레알파리",
+"randing_code": "SLO1000000219863"
+},
+
+{
+"brand_id": "P64180",
+"brand_nm": "로브로브",
+"randing_code": "LO10167238"
+},
+
+{
+"brand_id": "P1026",
+"brand_nm": "로엠",
+"randing_code": "SLO1000000003914"
+},
+
+{
+"brand_id": "P1032",
+"brand_nm": "로제도르",
+"randing_code": "LD452223"
+},
+
+{
+"brand_id": "P64012",
+"brand_nm": "로트르드민",
+"randing_code": "LO10166633"
+},
+
+{
+"brand_id": "P32270",
+"brand_nm": "롯데모바일상품권",
+"randing_code": "SLO1000000217596"
+},
+
+{
+"brand_id": "P23335",
+"brand_nm": "롯데자이언츠",
+"randing_code": "SLO1000000218224"
+},
+
+{
+"brand_id": "P1067",
+"brand_nm": "롯데제과",
+"randing_code": "SLO1000000219553"
+},
+
+{
+"brand_id": "P1068",
+"brand_nm": "롯데칠성",
+"randing_code": "LD244010"
+},
+
+{
+"brand_id": "P1095",
+"brand_nm": "루시다",
+"randing_code": "SLO1000000221573"
+},
+
+{
+"brand_id": "P56941",
+"brand_nm": "루프루프",
+"randing_code": "LO10137649"
+},
+
+{
+"brand_id": "P1113",
+"brand_nm": "룩캐스트",
+"randing_code": "LO10131240"
+},
+
+{
+"brand_id": "P59741",
+"brand_nm": "르",
+"randing_code": "LO10135443"
+},
+
+{
+"brand_id": "P25626",
+"brand_nm": "르니나",
+"randing_code": "LO10152848"
+},
+
+{
+"brand_id": "P1124",
+"brand_nm": "르무통",
+"randing_code": "SLO1000000209605"
+},
+
+{
+"brand_id": "P65250",
+"brand_nm": "르세지엠",
+"randing_code": "LO10171996"
+},
+
+{
+"brand_id": "P56336",
+"brand_nm": "리린",
+"randing_code": "LO10134967"
+},
+
+{
+"brand_id": "P1147",
+"brand_nm": "리바트",
+"randing_code": "LD015654"
+},
+
+{
+"brand_id": "P1151",
+"brand_nm": "리버클래시",
+"randing_code": "LO10084291"
+},
+
+{
+"brand_id": "P5140",
+"brand_nm": "리본제이",
+"randing_code": "LO10001477"
+},
+
+{
+"brand_id": "P16396",
+"brand_nm": "리에티",
+"randing_code": "LO10007232"
+},
+
+{
+"brand_id": "P10872",
+"brand_nm": "리이",
+"randing_code": "LO10138023"
+},
+
+{
+"brand_id": "P1198",
+"brand_nm": "리튠",
+"randing_code": "SLO1000000211523"
+},
+
+{
+"brand_id": "P59093",
+"brand_nm": "마녀바스켓",
+"randing_code": "LO10006101"
+},
+
+{
+"brand_id": "P43553",
+"brand_nm": "마른파이브",
+"randing_code": "LO10009881"
+},
+
+{
+"brand_id": "P5151",
+"brand_nm": "마리끌레르",
+"randing_code": "LO10019244"
+},
+
+{
+"brand_id": "P64503",
+"brand_nm": "마리떼키즈",
+"randing_code": "SLO1000000221515"
+},
+
+{
+"brand_id": "P58180",
+"brand_nm": "마리떼프랑소와저버",
+"randing_code": "SLO1000000221260"
+},
+
+{
+"brand_id": "P47358",
+"brand_nm": "마미케어",
+"randing_code": "SLO1000000218676"
+},
+
+{
+"brand_id": "P1263",
+"brand_nm": "마밤 오가닉",
+"randing_code": "LD462918"
+},
+
+{
+"brand_id": "P6735",
+"brand_nm": "마스케라",
+"randing_code": "LO10101228"
+},
+
+{
+"brand_id": "P1274",
+"brand_nm": "마운티아",
+"randing_code": "LO10164153"
+},
+
+{
+"brand_id": "P65055",
+"brand_nm": "마이르핀",
+"randing_code": "LO10171553"
 },
 
 {
 "brand_id": "P1296",
+"brand_nm": "마인드브릿지",
 "randing_code": "SLO1000000218531"
 },
 
 {
 "brand_id": "P59366",
+"brand_nm": "마인드브릿지 우먼",
 "randing_code": "SLO1000000218532"
 },
 
 {
-"brand_id": "P12762",
-"randing_code": "SLO1000000218651"
+"brand_id": "P41651",
+"brand_nm": "마쟈",
+"randing_code": "LO10135258"
 },
 
 {
-"brand_id": "P2348",
-"randing_code": "SLO1000000218666"
+"brand_id": "P6690",
+"brand_nm": "마켓비",
+"randing_code": "LO10021455"
 },
 
 {
-"brand_id": "P62212",
-"randing_code": "SLO1000000218667"
+"brand_id": "P60395",
+"brand_nm": "마크피에뉴",
+"randing_code": "LO10153161"
 },
 
 {
-"brand_id": "P61741",
-"randing_code": "SLO1000000218675"
+"brand_id": "P38775",
+"brand_nm": "마틴골프",
+"randing_code": "SLO1000000214361"
 },
 
 {
-"brand_id": "P47358",
-"randing_code": "SLO1000000218676"
+"brand_id": "P1340",
+"brand_nm": "매스티지데코",
+"randing_code": "LD304184"
 },
 
 {
-"brand_id": "P3918",
-"randing_code": "SLO1000000218692"
+"brand_id": "P9286",
+"brand_nm": "맥데이비드",
+"randing_code": "SLO1000000219839"
 },
 
 {
-"brand_id": "P89",
-"randing_code": "SLO1000000218693"
+"brand_id": "P1370",
+"brand_nm": "메디니스",
+"randing_code": "LD304093"
 },
 
 {
-"brand_id": "P32288",
-"randing_code": "SLO1000000218694"
+"brand_id": "P1376",
+"brand_nm": "메디플라워",
+"randing_code": "LD305304"
+},
+
+{
+"brand_id": "P38210",
+"brand_nm": "메이블루",
+"randing_code": "LO10131710"
+},
+
+{
+"brand_id": "P1404",
+"brand_nm": "메트로시티",
+"randing_code": "LD426571"
+},
+
+{
+"brand_id": "P64348",
+"brand_nm": "모어모르",
+"randing_code": "LO10167737"
+},
+
+{
+"brand_id": "P1456",
+"brand_nm": "모윰",
+"randing_code": "LO10093483"
+},
+
+{
+"brand_id": "P15761",
+"brand_nm": "모토벨로",
+"randing_code": "LO10097242"
+},
+
+{
+"brand_id": "P1462",
+"brand_nm": "목우촌",
+"randing_code": "LD296258"
+},
+
+{
+"brand_id": "P62962",
+"brand_nm": "몰든",
+"randing_code": "LO10163054"
+},
+
+{
+"brand_id": "P59973",
+"brand_nm": "무센트",
+"randing_code": "LO10170132"
+},
+
+{
+"brand_id": "P1492",
+"brand_nm": "무아스",
+"randing_code": "LD306299"
+},
+
+{
+"brand_id": "P59238",
+"brand_nm": "미꼬",
+"randing_code": "LO10148362"
+},
+
+{
+"brand_id": "P1502",
+"brand_nm": "미나그램",
+"randing_code": "LD472964"
+},
+
+{
+"brand_id": "P40494",
+"brand_nm": "미니멀프로젝트",
+"randing_code": "SLO1000000209379"
+},
+
+{
+"brand_id": "P36634",
+"brand_nm": "미라네주방",
+"randing_code": "LO10022127"
+},
+
+{
+"brand_id": "P1525",
+"brand_nm": "미샤",
+"randing_code": "SLD0170580"
+},
+
+{
+"brand_id": "P34009",
+"brand_nm": "미스그린",
+"randing_code": "SLO1000000219139"
+},
+
+{
+"brand_id": "P1538",
+"brand_nm": "미쏘",
+"randing_code": "SLD0169730"
+},
+
+{
+"brand_id": "P63863",
+"brand_nm": "미치코런던 코시노",
+"randing_code": "LO10112927"
+},
+
+{
+"brand_id": "P1555",
+"brand_nm": "밀레",
+"randing_code": "LO10008043"
+},
+
+{
+"brand_id": "P1586",
+"brand_nm": "바닐라코",
+"randing_code": "LD453591"
+},
+
+{
+"brand_id": "P1594",
+"brand_nm": "바디프랜드",
+"randing_code": "LD011606"
+},
+
+{
+"brand_id": "P1602",
+"brand_nm": "바바라",
+"randing_code": "LD016923"
+},
+
+{
+"brand_id": "P1625",
+"brand_nm": "바운티풀",
+"randing_code": "LD470833"
+},
+
+{
+"brand_id": "P54132",
+"brand_nm": "바이탈싸인",
+"randing_code": "LO10122648"
+},
+
+{
+"brand_id": "P22700",
+"brand_nm": "바잘",
+"randing_code": "LO10011083"
+},
+
+{
+"brand_id": "P48738",
+"brand_nm": "반원 아틀리에",
+"randing_code": "SLO1000000207673"
+},
+
+{
+"brand_id": "P1679",
+"brand_nm": "배럴",
+"randing_code": "LO10159675"
+},
+
+{
+"brand_id": "P1690",
+"brand_nm": "밸롭",
+"randing_code": "LD467421"
+},
+
+{
+"brand_id": "P1718",
+"brand_nm": "베네통",
+"randing_code": "LD297858"
+},
+
+{
+"brand_id": "P64734",
+"brand_nm": "베러투데이",
+"randing_code": "LO10170031"
+},
+
+{
+"brand_id": "P64731",
+"brand_nm": "베르데마르",
+"randing_code": "LO10170099"
+},
+
+{
+"brand_id": "P1746",
+"brand_nm": "베스띠벨리",
+"randing_code": "LD237158"
+},
+
+{
+"brand_id": "P1752",
+"brand_nm": "베스트슬립",
+"randing_code": "LD457048"
+},
+
+{
+"brand_id": "P1761",
+"brand_nm": "베이비뵨",
+"randing_code": "LD452493"
+},
+
+{
+"brand_id": "P1766",
+"brand_nm": "베이직 엘르",
+"randing_code": "LO10012187"
+},
+
+{
+"brand_id": "P1768",
+"brand_nm": "베이직하우스",
+"randing_code": "SLO1000000216838"
+},
+
+{
+"brand_id": "P64733",
+"brand_nm": "부산아이파크",
+"randing_code": "LO10170087"
+},
+
+{
+"brand_id": "P64889",
+"brand_nm": "브레넨스툴",
+"randing_code": "LO10170390"
+},
+
+{
+"brand_id": "P1903",
+"brand_nm": "브렌우드",
+"randing_code": "SLD3330330"
+},
+
+{
+"brand_id": "P1907",
+"brand_nm": "브룩스 브라더스",
+"randing_code": "LD458923"
+},
+
+{
+"brand_id": "P38183",
+"brand_nm": "브리엘",
+"randing_code": "LO10003715"
+},
+
+{
+"brand_id": "P1934",
+"brand_nm": "블랙야크",
+"randing_code": "SLO1000000219890"
+},
+
+{
+"brand_id": "P1966",
+"brand_nm": "블리블리",
+"randing_code": "SLO1000000220424"
+},
+
+{
+"brand_id": "P1970",
+"brand_nm": "비너스",
+"randing_code": "LD277149"
+},
+
+{
+"brand_id": "P11220",
+"brand_nm": "비뮤즈맨션",
+"randing_code": "LO10098635"
+},
+
+{
+"brand_id": "P60322",
+"brand_nm": "비바셔스",
+"randing_code": "SLO1000000218338"
+},
+
+{
+"brand_id": "P1991",
+"brand_nm": "비비안웨스트우드",
+"randing_code": "SLO1000000217660"
+},
+
+{
+"brand_id": "P64959",
+"brand_nm": "비온타임",
+"randing_code": "LO10171197"
+},
+
+{
+"brand_id": "P2023",
+"brand_nm": "비욘드",
+"randing_code": "SLO1000000206951"
+},
+
+{
+"brand_id": "P9067",
+"brand_nm": "비체",
+"randing_code": "LO10018620"
+},
+
+{
+"brand_id": "P47874",
+"brand_nm": "비키니밴더",
+"randing_code": "LO10104709"
+},
+
+{
+"brand_id": "P13925",
+"brand_nm": "비플레인",
+"randing_code": "LO10166508"
+},
+
+{
+"brand_id": "P11249",
+"brand_nm": "빅키드",
+"randing_code": "SLO1000000221152"
+},
+
+{
+"brand_id": "P2045",
+"brand_nm": "빈",
+"randing_code": "LO10010607"
+},
+
+{
+"brand_id": "P2051",
+"brand_nm": "빈티지헐리우드",
+"randing_code": "LD435235"
+},
+
+{
+"brand_id": "P2056",
+"brand_nm": "빈폴 레이디스",
+"randing_code": "SLD3986330"
 },
 
 {
 "brand_id": "P5618",
+"brand_nm": "빔바이롤라",
 "randing_code": "SLO1000000218695"
 },
 
 {
-"brand_id": "P94",
-"randing_code": "SLO1000000218696"
+"brand_id": "P5640",
+"brand_nm": ""아",
+"randing_code": "LO10061362"
 },
 
 {
-"brand_id": "P4712",
-"randing_code": "SLO1000000218808"
+"brand_id": "P59043",
+"brand_nm": "사이즈오브",
+"randing_code": "LO10139930"
+},
+
+{
+"brand_id": "P56710",
+"brand_nm": "삭피엔스",
+"randing_code": "LO10079439"
+},
+
+{
+"brand_id": "P2126",
+"brand_nm": "삼익",
+"randing_code": "LO10133777"
+},
+
+{
+"brand_id": "P2127",
+"brand_nm": "삼익가구",
+"randing_code": "LD472571"
+},
+
+{
+"brand_id": "P2130",
+"brand_nm": "삼진어묵",
+"randing_code": "SLO1000000220614"
+},
+
+{
+"brand_id": "P5250",
+"brand_nm": "샐리",
+"randing_code": "LD466579"
+},
+
+{
+"brand_id": "P2144",
+"brand_nm": "샘표",
+"randing_code": "SLO1000000220159"
+},
+
+{
+"brand_id": "P2157",
+"brand_nm": "샤틴",
+"randing_code": "LO10015563"
+},
+
+{
+"brand_id": "P2166",
+"brand_nm": "서울약사신협",
+"randing_code": "LO10084521"
+},
+
+{
+"brand_id": "P28484",
+"brand_nm": "선데이 라운지",
+"randing_code": "SLO1000000220546"
+},
+
+{
+"brand_id": "P20463",
+"brand_nm": "성분에디터",
+"randing_code": "SLO1000000221624"
+},
+
+{
+"brand_id": "P5257",
+"brand_nm": "세라젬",
+"randing_code": "LD015891"
+},
+
+{
+"brand_id": "P63800",
+"brand_nm": "세이지먼트",
+"randing_code": "LO10164407"
+},
+
+{
+"brand_id": "P6919",
+"brand_nm": "세인트제임스",
+"randing_code": "SLO1000000220175"
+},
+
+{
+"brand_id": "P2206",
+"brand_nm": "세컨스킨",
+"randing_code": "LO10135767"
+},
+
+{
+"brand_id": "P2218",
+"brand_nm": "센텔리안24",
+"randing_code": "LO10050974"
+},
+
+{
+"brand_id": "P2226",
+"brand_nm": "셀라피",
+"randing_code": "SLD4211330"
+},
+
+{
+"brand_id": "P15764",
+"brand_nm": "셀렉스",
+"randing_code": "LD464939"
+},
+
+{
+"brand_id": "P2234",
+"brand_nm": "셀퓨전씨",
+"randing_code": "LD464161"
+},
+
+{
+"brand_id": "P2273",
+"brand_nm": "수려한",
+"randing_code": "SLO1000000206962"
+},
+
+{
+"brand_id": "P8271",
+"brand_nm": "수면공감",
+"randing_code": "LD477666"
+},
+
+{
+"brand_id": "P60780",
+"brand_nm": "수아레 우먼",
+"randing_code": "LO10154930"
+},
+
+{
+"brand_id": "P2291",
+"brand_nm": "숲",
+"randing_code": "LD012792"
+},
+
+{
+"brand_id": "P2299",
+"brand_nm": "쉬즈미스",
+"randing_code": "LD285487"
+},
+
+{
+"brand_id": "P2319",
+"brand_nm": "슈펜",
+"randing_code": "SLO1000000218120"
+},
+
+{
+"brand_id": "P48908",
+"brand_nm": "슈펜키즈",
+"randing_code": "SLO1000000219773"
+},
+
+{
+"brand_id": "P8374",
+"brand_nm": "스스디",
+"randing_code": "LD467026"
+},
+
+{
+"brand_id": "P2348",
+"brand_nm": "스와치",
+"randing_code": "SLO1000000218666"
+},
+
+{
+"brand_id": "P6053",
+"brand_nm": "스카트",
+"randing_code": "SLO1000000220409"
+},
+
+{
+"brand_id": "P2381",
+"brand_nm": "스킨푸드",
+"randing_code": "LD014329"
+},
+
+{
+"brand_id": "P2394",
+"brand_nm": "스타일온미",
+"randing_code": "LD341275"
+},
+
+{
+"brand_id": "P64811",
+"brand_nm": "스테이유스",
+"randing_code": "SLO1000000219883"
+},
+
+{
+"brand_id": "P2413",
+"brand_nm": "스톤헨지",
+"randing_code": "LD451994"
 },
 
 {
 "brand_id": "P2433",
+"brand_nm": "스파오",
 "randing_code": "SLO1000000218936"
 },
 
 {
 "brand_id": "P40096",
+"brand_nm": "스파오 키즈",
 "randing_code": "SLO1000000218957"
 },
 
 {
-"brand_id": "P12052",
-"randing_code": "SLO1000000218958"
-},
-
-{
-"brand_id": "P34009",
-"randing_code": "SLO1000000219139"
-},
-
-{
-"brand_id": "P305",
-"randing_code": "SLO1000000219196"
-},
-
-{
-"brand_id": "P30282",
-"randing_code": "SLO1000000219369"
-},
-
-{
-"brand_id": "P64081",
-"randing_code": "SLO1000000219443"
-},
-
-{
-"brand_id": "P1067",
-"randing_code": "SLO1000000219553"
-},
-
-{
-"brand_id": "P3300",
-"randing_code": "SLO1000000219583"
-},
-
-{
-"brand_id": "P64506",
-"randing_code": "SLO1000000219584"
-},
-
-{
-"brand_id": "P61210",
-"randing_code": "SLO1000000219591"
-},
-
-{
-"brand_id": "P537",
-"randing_code": "SLO1000000219682"
-},
-
-{
-"brand_id": "P4659",
-"randing_code": "SLO1000000219749"
-},
-
-{
-"brand_id": "P457",
-"randing_code": "SLO1000000219771"
-},
-
-{
-"brand_id": "P48908",
-"randing_code": "SLO1000000219773"
-},
-
-{
-"brand_id": "P413",
-"randing_code": "SLO1000000219794"
-},
-
-{
-"brand_id": "P9080",
-"randing_code": "SLO1000000219837"
-},
-
-{
-"brand_id": "P6504",
-"randing_code": "SLO1000000219838"
-},
-
-{
-"brand_id": "P9286",
-"randing_code": "SLO1000000219839"
-},
-
-{
-"brand_id": "P6486",
-"randing_code": "SLO1000000219847"
-},
-
-{
-"brand_id": "P4135",
-"randing_code": "SLO1000000219855"
-},
-
-{
-"brand_id": "P3716",
-"randing_code": "SLO1000000219856"
-},
-
-{
-"brand_id": "P4901",
-"randing_code": "SLO1000000219857"
-},
-
-{
-"brand_id": "P4720",
-"randing_code": "SLO1000000219859"
-},
-
-{
-"brand_id": "P987",
-"randing_code": "SLO1000000219863"
-},
-
-{
-"brand_id": "P2550",
-"randing_code": "SLO1000000219864"
-},
-
-{
-"brand_id": "P3307",
-"randing_code": "SLO1000000219869"
-},
-
-{
-"brand_id": "P12167",
-"randing_code": "SLO1000000219881"
-},
-
-{
-"brand_id": "P64811",
-"randing_code": "SLO1000000219883"
-},
-
-{
-"brand_id": "P1934",
-"randing_code": "SLO1000000219890"
-},
-
-{
-"brand_id": "P393",
-"randing_code": "SLO1000000220146"
-},
-
-{
-"brand_id": "P2144",
-"randing_code": "SLO1000000220159"
-},
-
-{
-"brand_id": "P2656",
-"randing_code": "SLO1000000220167"
-},
-
-{
-"brand_id": "P4165",
-"randing_code": "SLO1000000220168"
-},
-
-{
-"brand_id": "P6919",
-"randing_code": "SLO1000000220175"
-},
-
-{
-"brand_id": "P61877",
-"randing_code": "SLO1000000220407"
-},
-
-{
-"brand_id": "P787",
-"randing_code": "SLO1000000220408"
-},
-
-{
-"brand_id": "P6053",
-"randing_code": "SLO1000000220409"
-},
-
-{
-"brand_id": "P64888",
-"randing_code": "SLO1000000220413"
-},
-
-{
-"brand_id": "P1966",
-"randing_code": "SLO1000000220424"
-},
-
-{
-"brand_id": "P3400",
-"randing_code": "SLO1000000220509"
-},
-
-{
-"brand_id": "P65147",
-"randing_code": "SLO1000000220514"
-},
-
-{
-"brand_id": "P65148",
-"randing_code": "SLO1000000220531"
-},
-
-{
-"brand_id": "P65025",
-"randing_code": "SLO1000000220533"
-},
-
-{
-"brand_id": "P54001",
-"randing_code": "SLO1000000220545"
-},
-
-{
-"brand_id": "P28484",
-"randing_code": "SLO1000000220546"
-},
-
-{
-"brand_id": "P4409",
-"randing_code": "SLO1000000220555"
-},
-
-{
-"brand_id": "P2663",
-"randing_code": "SLO1000000220556"
-},
-
-{
-"brand_id": "P48392",
-"randing_code": "SLO1000000220568"
-},
-
-{
-"brand_id": "P65098",
-"randing_code": "SLO1000000220569"
-},
-
-{
-"brand_id": "P408",
-"randing_code": "SLO1000000220601"
-},
-
-{
-"brand_id": "P11929",
-"randing_code": "SLO1000000220606"
-},
-
-{
-"brand_id": "P2130",
-"randing_code": "SLO1000000220614"
-},
-
-{
-"brand_id": "P21",
-"randing_code": "SLO1000000221113"
-},
-
-{
-"brand_id": "P3884",
-"randing_code": "SLO1000000221114"
-},
-
-{
-"brand_id": "P5886",
-"randing_code": "SLO1000000221126"
-},
-
-{
-"brand_id": "P271",
-"randing_code": "SLO1000000221135"
-},
-
-{
-"brand_id": "P8865",
-"randing_code": "SLO1000000221143"
-},
-
-{
-"brand_id": "P6420",
-"randing_code": "SLO1000000221151"
-},
-
-{
-"brand_id": "P11249",
-"randing_code": "SLO1000000221152"
-},
-
-{
-"brand_id": "P55083",
-"randing_code": "SLO1000000221157"
-},
-
-{
-"brand_id": "P16614",
-"randing_code": "SLO1000000221159"
-},
-
-{
-"brand_id": "P16615",
-"randing_code": "SLO1000000221160"
-},
-
-{
-"brand_id": "P47178",
-"randing_code": "SLO1000000221256"
-},
-
-{
-"brand_id": "P58180",
-"randing_code": "SLO1000000221260"
-},
-
-{
-"brand_id": "P64503",
-"randing_code": "SLO1000000221515"
-},
-
-{
-"brand_id": "P1095",
-"randing_code": "SLO1000000221573"
-},
-
-{
-"brand_id": "P64339",
-"randing_code": "SLO1000000221589"
-},
-
-{
-"brand_id": "P20463",
-"randing_code": "SLO1000000221624"
-},
-
-{
-"brand_id": "P65250",
-"randing_code": "LO10171996"
-},
-
-{
-"brand_id": "P35354",
-"randing_code": "LO10036819"
-},
-
-{
-"brand_id": "P1263",
-"randing_code": "LD462918"
-},
-
-{
-"brand_id": "P4658",
-"randing_code": "LD304058"
-},
-
-{
-"brand_id": "P65296",
-"randing_code": "LO10041384"
-},
-
-{
-"brand_id": "P29352",
-"randing_code": "LO10159591"
-},
-
-{
-"brand_id": "P1690",
-"randing_code": "LD467421"
-},
-
-{
-"brand_id": "P22178",
-"randing_code": "LO10171727"
-},
-
-{
-"brand_id": "P2126",
-"randing_code": "LO10133777"
-},
-
-{
-"brand_id": "P15637",
-"randing_code": "LD320255"
-},
-
-{
-"brand_id": "P64889",
-"randing_code": "LO10170390"
-},
-
-{
-"brand_id": "P7171",
-"randing_code": "LD470066"
-},
-
-{
-"brand_id": "P57069",
-"randing_code": "LO10113403"
-},
-
-{
-"brand_id": "P1907",
-"randing_code": "LD458923"
-},
-
-{
-"brand_id": "P4276",
-"randing_code": "LD475461"
-},
-
-{
-"brand_id": "P11498",
-"randing_code": "LO10172003"
-},
-
-{
-"brand_id": "P2797",
-"randing_code": "LD011242"
-},
-
-{
-"brand_id": "P64959",
-"randing_code": "LO10171197"
-},
-
-{
-"brand_id": "P6690",
-"randing_code": "LO10021455"
-},
-
-{
-"brand_id": "P64226",
-"randing_code": "LO10166394"
-},
-
-{
-"brand_id": "P65055",
-"randing_code": "LO10171553"
-},
-
-{
-"brand_id": "P7400",
-"randing_code": "LD282757"
-},
-
-{
-"brand_id": "P44911",
-"randing_code": "LO10085842"
-},
-
-{
-"brand_id": "P65044",
-"randing_code": "LO10171493"
-},
-
-{
-"brand_id": "P2573",
-"randing_code": "LD457741"
-},
-
-{
-"brand_id": "P198",
-"randing_code": "LO10017739"
-},
-
-{
-"brand_id": "P1492",
-"randing_code": "LD306299"
-},
-
-{
-"brand_id": "P423",
-"randing_code": "LO10036062"
-},
-
-{
-"brand_id": "P47991",
-"randing_code": "LO10105352"
-},
-
-{
-"brand_id": "P31316",
-"randing_code": "LO10030920"
-},
-
-{
-"brand_id": "P5964",
-"randing_code": "LD465038"
-},
-
-{
-"brand_id": "P64941",
-"randing_code": "LO10171191"
-},
-
-{
 "brand_id": "P2439",
+"brand_nm": "스퍼",
 "randing_code": "LD016866"
 },
 
 {
-"brand_id": "P55904",
-"randing_code": "LO10132219"
-},
-
-{
-"brand_id": "P3081",
-"randing_code": "LD016877"
-},
-
-{
-"brand_id": "P13703",
-"randing_code": "LD472692"
-},
-
-{
-"brand_id": "P36634",
-"randing_code": "LO10022127"
-},
-
-{
-"brand_id": "P47613",
-"randing_code": "LO10103025"
-},
-
-{
-"brand_id": "P53",
-"randing_code": "LO10010045"
-},
-
-{
-"brand_id": "P461",
-"randing_code": "LD471244"
-},
-
-{
-"brand_id": "P602",
-"randing_code": "LD018166"
-},
-
-{
-"brand_id": "P1370",
-"randing_code": "LD304093"
-},
-
-{
-"brand_id": "P4248",
-"randing_code": "LO10003360"
-},
-
-{
-"brand_id": "P2684",
-"randing_code": "LD019674"
-},
-
-{
-"brand_id": "P2945",
-"randing_code": "LD019051"
-},
-
-{
-"brand_id": "P4403",
-"randing_code": "LD018069"
-},
-
-{
-"brand_id": "P5257",
-"randing_code": "LD015891"
-},
-
-{
-"brand_id": "P60331",
-"randing_code": "LO10140103"
-},
-
-{
-"brand_id": "P4818",
-"randing_code": "LD475711"
-},
-
-{
-"brand_id": "P57731",
-"randing_code": "LO10027199"
-},
-
-{
-"brand_id": "P3107",
-"randing_code": "LD303825"
-},
-
-{
-"brand_id": "P15535",
-"randing_code": "LO10009066"
-},
-
-{
-"brand_id": "P1602",
-"randing_code": "LD016923"
-},
-
-{
-"brand_id": "P32477",
-"randing_code": "LO10026698"
-},
-
-{
-"brand_id": "P26587",
-"randing_code": "LO10158346"
-},
-
-{
-"brand_id": "P18728",
-"randing_code": "LO10005652"
-},
-
-{
-"brand_id": "P18883",
-"randing_code": "LO10003281"
-},
-
-{
-"brand_id": "P64731",
-"randing_code": "LO10170099"
-},
-
-{
-"brand_id": "P64734",
-"randing_code": "LO10170031"
-},
-
-{
-"brand_id": "P59973",
-"randing_code": "LO10170132"
-},
-
-{
-"brand_id": "P2540",
-"randing_code": "LO10018673"
-},
-
-{
-"brand_id": "P201",
-"randing_code": "LD255600"
-},
-
-{
-"brand_id": "P2681",
-"randing_code": "LO10141892"
-},
-
-{
-"brand_id": "P2511",
-"randing_code": "LD018725"
-},
-
-{
-"brand_id": "P2633",
-"randing_code": "LD020328"
-},
-
-{
-"brand_id": "P59238",
-"randing_code": "LO10148362"
-},
-
-{
-"brand_id": "P2495",
-"randing_code": "LO10088524"
-},
-
-{
-"brand_id": "P21846",
-"randing_code": "LD017316"
-},
-
-{
-"brand_id": "P13530",
-"randing_code": "LD475028"
-},
-
-{
-"brand_id": "P32321",
-"randing_code": "LO10040958"
-},
-
-{
-"brand_id": "P9067",
-"randing_code": "LO10018620"
-},
-
-{
-"brand_id": "P2051",
-"randing_code": "LD435235"
-},
-
-{
-"brand_id": "P4841",
-"randing_code": "LD466693"
-},
-
-{
-"brand_id": "P4891",
-"randing_code": "LD452667"
-},
-
-{
-"brand_id": "P1752",
-"randing_code": "LD457048"
-},
-
-{
-"brand_id": "P3593",
-"randing_code": "LD458071"
-},
-
-{
-"brand_id": "P44594",
-"randing_code": "LD016952"
-},
-
-{
-"brand_id": "P728",
-"randing_code": "LD015718"
-},
-
-{
-"brand_id": "P908",
-"randing_code": "LD016174"
-},
-
-{
-"brand_id": "P596",
-"randing_code": "LD013022"
-},
-
-{
-"brand_id": "P3737",
-"randing_code": "LD476784"
-},
-
-{
-"brand_id": "P315",
-"randing_code": "LD474690"
-},
-
-{
-"brand_id": "P62921",
-"randing_code": "LO10162228"
-},
-
-{
-"brand_id": "P2725",
-"randing_code": "LD464942"
-},
-
-{
-"brand_id": "P15764",
-"randing_code": "LD464939"
-},
-
-{
-"brand_id": "P25902",
-"randing_code": "LD466356"
-},
-
-{
-"brand_id": "P739",
-"randing_code": "LD464811"
-},
-
-{
-"brand_id": "P3225",
-"randing_code": "LD305328"
-},
-
-{
-"brand_id": "P4438",
-"randing_code": "LD014882"
-},
-
-{
-"brand_id": "P4867",
-"randing_code": "LD014804"
-},
-
-{
-"brand_id": "P60972",
-"randing_code": "LO10168183"
-},
-
-{
-"brand_id": "P5250",
-"randing_code": "LD466579"
-},
-
-{
-"brand_id": "P1555",
-"randing_code": "LO10008043"
-},
-
-{
-"brand_id": "P43553",
-"randing_code": "LO10009881"
-},
-
-{
-"brand_id": "P4087",
-"randing_code": "LD455007"
-},
-
-{
-"brand_id": "P4717",
-"randing_code": "LD463454"
-},
-
-{
-"brand_id": "P1586",
-"randing_code": "LD453591"
-},
-
-{
-"brand_id": "P2493",
-"randing_code": "LD015132"
-},
-
-{
-"brand_id": "P1502",
-"randing_code": "LD472964"
-},
-
-{
-"brand_id": "P2991",
-"randing_code": "LD475099"
-},
-
-{
-"brand_id": "P4524",
-"randing_code": "LO10117119"
-},
-
-{
-"brand_id": "P3847",
-"randing_code": "LO10018597"
-},
-
-{
-"brand_id": "P1462",
-"randing_code": "LD296258"
-},
-
-{
-"brand_id": "P109",
-"randing_code": "LD291664"
-},
-
-{
-"brand_id": "P3764",
-"randing_code": "LD013007"
-},
-
-{
-"brand_id": "P4256",
-"randing_code": "LD281658"
-},
-
-{
-"brand_id": "P2473",
-"randing_code": "LD247971"
-},
-
-{
-"brand_id": "P3712",
-"randing_code": "LD252201"
-},
-
-{
-"brand_id": "P1376",
-"randing_code": "LD305304"
-},
-
-{
-"brand_id": "P958",
-"randing_code": "LD317298"
-},
-
-{
-"brand_id": "P4351",
-"randing_code": "LO10002322"
-},
-
-{
-"brand_id": "P2820",
-"randing_code": "LD304400"
-},
-
-{
-"brand_id": "P17366",
-"randing_code": "LO10065371"
-},
-
-{
-"brand_id": "P2413",
-"randing_code": "LD451994"
-},
-
-{
-"brand_id": "P2166",
-"randing_code": "LO10084521"
-},
-
-{
-"brand_id": "P1151",
-"randing_code": "LO10084291"
-},
-
-{
-"brand_id": "P9434",
-"randing_code": "LD467749"
-},
-
-{
-"brand_id": "P4922",
-"randing_code": "LD451999"
-},
-
-{
-"brand_id": "P4730",
-"randing_code": "LD469350"
-},
-
-{
-"brand_id": "P698",
-"randing_code": "LD472178"
-},
-
-{
-"brand_id": "P4272",
-"randing_code": "LO10004403"
-},
-
-{
-"brand_id": "P4605",
-"randing_code": "LD479682"
-},
-
-{
-"brand_id": "P18688",
-"randing_code": "LO10006618"
-},
-
-{
-"brand_id": "P2045",
-"randing_code": "LO10010607"
-},
-
-{
-"brand_id": "P2808",
-"randing_code": "LO10053277"
-},
-
-{
-"brand_id": "P952",
-"randing_code": "LO10018108"
-},
-
-{
-"brand_id": "P55517",
-"randing_code": "LO10014162"
-},
-
-{
-"brand_id": "P35159",
-"randing_code": "LO10133197"
-},
-
-{
-"brand_id": "P237",
-"randing_code": "LO10148763"
-},
-
-{
-"brand_id": "P56941",
-"randing_code": "LO10137649"
-},
-
-{
-"brand_id": "P56791",
-"randing_code": "LO10137228"
-},
-
-{
-"brand_id": "P252",
-"randing_code": "LO10159232"
-},
-
-{
-"brand_id": "P62962",
-"randing_code": "LO10163054"
-},
-
-{
-"brand_id": "P60395",
-"randing_code": "LO10153161"
-},
-
-{
-"brand_id": "P1274",
-"randing_code": "LO10164153"
-},
-
-{
-"brand_id": "P60683",
-"randing_code": "LO10161807"
-},
-
-{
-"brand_id": "P12390",
-"randing_code": "LO10156220"
-},
-
-{
-"brand_id": "P4034",
-"randing_code": "LO10156113"
-},
-
-{
-"brand_id": "P6414",
-"randing_code": "LO10046658"
-},
-
-{
-"brand_id": "P1404",
-"randing_code": "LD426571"
-},
-
-{
-"brand_id": "P1746",
-"randing_code": "LD237158"
-},
-
-{
-"brand_id": "P3252",
-"randing_code": "LD366865"
-},
-
-{
-"brand_id": "P2291",
-"randing_code": "LD012792"
-},
-
-{
-"brand_id": "P4819",
-"randing_code": "LD471282"
-},
-
-{
-"brand_id": "P22",
-"randing_code": "LD479040"
-},
-
-{
-"brand_id": "P2694",
-"randing_code": "LD475578"
-},
-
-{
-"brand_id": "P12424",
-"randing_code": "LD479675"
-},
-
-{
-"brand_id": "P5474",
-"randing_code": "LO10006334"
-},
-
-{
-"brand_id": "P2619",
-"randing_code": "LO10004233"
-},
-
-{
-"brand_id": "P2022",
-"randing_code": "LO10003011"
-},
-
-{
-"brand_id": "P2157",
-"randing_code": "LO10015563"
-},
-
-{
-"brand_id": "P13921",
-"randing_code": "LO10006654"
-},
-
-{
-"brand_id": "P45328",
-"randing_code": "LO10095760"
-},
-
-{
-"brand_id": "P28367",
-"randing_code": "LO10095957"
-},
-
-{
-"brand_id": "P64545",
-"randing_code": "LO10106942"
-},
-
-{
-"brand_id": "P47447",
-"randing_code": "LO10102639"
-},
-
-{
-"brand_id": "P29784",
-"randing_code": "LO10112547"
-},
-
-{
-"brand_id": "P47874",
-"randing_code": "LO10104709"
+"brand_id": "P32288",
+"brand_nm": "스포티앤리치",
+"randing_code": "SLO1000000218694"
 },
 
 {
 "brand_id": "P9068",
+"brand_nm": "스피도",
 "randing_code": "LO10119666"
 },
 
 {
-"brand_id": "P26458",
-"randing_code": "LO10127483"
-},
-
-{
-"brand_id": "P1113",
-"randing_code": "LO10131240"
-},
-
-{
-"brand_id": "P25898",
-"randing_code": "LO10119733"
-},
-
-{
-"brand_id": "P3186",
-"randing_code": "LO10143646"
-},
-
-{
-"brand_id": "P1679",
-"randing_code": "LO10159675"
-},
-
-{
-"brand_id": "P3556",
-"randing_code": "LD012645"
-},
-
-{
-"brand_id": "P3294",
-"randing_code": "LD015442"
-},
-
-{
-"brand_id": "P4178",
-"randing_code": "LO10142338"
-},
-
-{
-"brand_id": "P41651",
-"randing_code": "LO10135258"
-},
-
-{
-"brand_id": "P2206",
-"randing_code": "LO10135767"
-},
-
-{
-"brand_id": "P3609",
-"randing_code": "LO10071283"
-},
-
-{
-"brand_id": "P2218",
-"randing_code": "LO10050974"
-},
-
-{
-"brand_id": "P5151",
-"randing_code": "LO10019244"
-},
-
-{
-"brand_id": "P4768",
-"randing_code": "LD015505"
-},
-
-{
-"brand_id": "P56336",
-"randing_code": "LO10134967"
-},
-
-{
-"brand_id": "P4317",
-"randing_code": "LD455902"
-},
-
-{
-"brand_id": "P3095",
-"randing_code": "LD014405"
-},
-
-{
-"brand_id": "P1340",
-"randing_code": "LD304184"
-},
-
-{
-"brand_id": "P1718",
-"randing_code": "LD297858"
-},
-
-{
-"brand_id": "P485",
-"randing_code": "LD251590"
-},
-
-{
-"brand_id": "P1970",
-"randing_code": "LD277149"
-},
-
-{
-"brand_id": "P3242",
-"randing_code": "LD018712"
-},
-
-{
-"brand_id": "P746",
-"randing_code": "LD242384"
-},
-
-{
-"brand_id": "P18771",
-"randing_code": "LD479829"
-},
-
-{
-"brand_id": "P6735",
-"randing_code": "LO10101228"
-},
-
-{
-"brand_id": "P22700",
-"randing_code": "LO10011083"
-},
-
-{
-"brand_id": "P56710",
-"randing_code": "LO10079439"
-},
-
-{
-"brand_id": "P8971",
-"randing_code": "LD472049"
-},
-
-{
-"brand_id": "P16396",
-"randing_code": "LO10007232"
-},
-
-{
-"brand_id": "P38449",
-"randing_code": "LD469544"
-},
-
-{
-"brand_id": "P26062",
-"randing_code": "LO10160853"
-},
-
-{
-"brand_id": "P13932",
-"randing_code": "LO10159147"
-},
-
-{
-"brand_id": "P58984",
-"randing_code": "LO10146782"
-},
-
-{
-"brand_id": "P53752",
-"randing_code": "LO10161429"
-},
-
-{
-"brand_id": "P60516",
-"randing_code": "LO10130975"
-},
-
-{
-"brand_id": "P64348",
-"randing_code": "LO10167737"
-},
-
-{
-"brand_id": "P61789",
-"randing_code": "LO10101890"
-},
-
-{
-"brand_id": "P57032",
-"randing_code": "LO10138715"
-},
-
-{
-"brand_id": "P55566",
-"randing_code": "LO10153460"
-},
-
-{
-"brand_id": "P60502",
-"randing_code": "LO10153480"
-},
-
-{
-"brand_id": "P59741",
-"randing_code": "LO10135443"
-},
-
-{
-"brand_id": "P29399",
-"randing_code": "LO10151163"
-},
-
-{
-"brand_id": "P25626",
-"randing_code": "LO10152848"
-},
-
-{
-"brand_id": "P29139",
-"randing_code": "LO10160336"
-},
-
-{
-"brand_id": "P14340",
-"randing_code": "LO10160220"
-},
-
-{
-"brand_id": "P63576",
-"randing_code": "LO10160184"
-},
-
-{
-"brand_id": "P64012",
-"randing_code": "LO10166633"
-},
-
-{
-"brand_id": "P849",
-"randing_code": "LO10165462"
-},
-
-{
-"brand_id": "P49544",
-"randing_code": "LO10133074"
-},
-
-{
-"brand_id": "P63863",
-"randing_code": "LO10112927"
-},
-
-{
-"brand_id": "P5075",
-"randing_code": "LD303769"
-},
-
-{
-"brand_id": "P249",
-"randing_code": "LD013540"
-},
-
-{
-"brand_id": "P2919",
-"randing_code": "LD015264"
-},
-
-{
-"brand_id": "P2806",
-"randing_code": "LD476588"
-},
-
-{
-"brand_id": "P2127",
-"randing_code": "LD472571"
-},
-
-{
-"brand_id": "P545",
-"randing_code": "LD471193"
-},
-
-{
-"brand_id": "P8374",
-"randing_code": "LD467026"
-},
-
-{
-"brand_id": "P2709",
-"randing_code": "LD235972"
-},
-
-{
-"brand_id": "P1068",
-"randing_code": "LD244010"
-},
-
-{
-"brand_id": "P3422",
-"randing_code": "LD459963"
-},
-
-{
-"brand_id": "P3883",
-"randing_code": "LD458649"
-},
-
-{
-"brand_id": "P4459",
-"randing_code": "LO10035571"
-},
-
-{
-"brand_id": "P32997",
-"randing_code": "LO10020896"
-},
-
-{
-"brand_id": "P1147",
-"randing_code": "LD015654"
-},
-
-{
-"brand_id": "P127",
-"randing_code": "LD018224"
-},
-
-{
-"brand_id": "P1032",
-"randing_code": "LD452223"
-},
-
-{
-"brand_id": "P54445",
-"randing_code": "LD434693"
-},
-
-{
-"brand_id": "P64469",
-"randing_code": "LO10168970"
-},
-
-{
-"brand_id": "P3592",
-"randing_code": "LD013855"
-},
-
-{
-"brand_id": "P3823",
-"randing_code": "LO10164336"
-},
-
-{
-"brand_id": "P3580",
-"randing_code": "LD015467"
-},
-
-{
-"brand_id": "P2984",
-"randing_code": "LD264993"
-},
-
-{
-"brand_id": "P2299",
-"randing_code": "LD285487"
-},
-
-{
-"brand_id": "P15761",
-"randing_code": "LO10097242"
-},
-
-{
-"brand_id": "P64377",
-"randing_code": "LO10168526"
-},
-
-{
-"brand_id": "P10449",
-"randing_code": "LO10167021"
-},
-
-{
-"brand_id": "P64180",
-"randing_code": "LO10167238"
-},
-
-{
-"brand_id": "P13925",
-"randing_code": "LO10166508"
-},
-
-{
-"brand_id": "P3648",
-"randing_code": "LD018703"
-},
-
-{
-"brand_id": "P3607",
-"randing_code": "LD305226"
-},
-
-{
-"brand_id": "P4533",
-"randing_code": "LO10115192"
-},
-
-{
-"brand_id": "P57391",
-"randing_code": "LO10167087"
-},
-
-{
-"brand_id": "P57916",
-"randing_code": "LO10166974"
-},
-
-{
-"brand_id": "P64453",
-"randing_code": "LO10167563"
-},
-
-{
-"brand_id": "P64733",
-"randing_code": "LO10170087"
-},
-
-{
-"brand_id": "P1594",
-"randing_code": "LD011606"
-},
-
-{
-"brand_id": "P33474",
-"randing_code": "LD017279"
-},
-
-{
-"brand_id": "P8986",
-"randing_code": "LO10019983"
-},
-
-{
-"brand_id": "P59043",
-"randing_code": "LO10139930"
-},
-
-{
-"brand_id": "P4700",
-"randing_code": "LO10109568"
-},
-
-{
-"brand_id": "P59093",
-"randing_code": "LO10006101"
-},
-
-{
-"brand_id": "P39912",
-"randing_code": "LO10022602"
-},
-
-{
-"brand_id": "P37397",
-"randing_code": "LO10153279"
-},
-
-{
-"brand_id": "P895",
-"randing_code": "LD011270"
-},
-
-{
-"brand_id": "P3640",
-"randing_code": "LD290863"
-},
-
-{
-"brand_id": "P349",
-"randing_code": "LD279858"
-},
-
-{
-"brand_id": "P2394",
-"randing_code": "LD341275"
-},
-
-{
-"brand_id": "P536",
-"randing_code": "LO10078089"
-},
-
-{
-"brand_id": "P17696",
-"randing_code": "LD471399"
-},
-
-{
-"brand_id": "P21734",
-"randing_code": "LO10009741"
-},
-
-{
-"brand_id": "P7713",
-"randing_code": "LO10008386"
-},
-
-{
-"brand_id": "P14181",
-"randing_code": "LO10050654"
-},
-
-{
-"brand_id": "P14448",
-"randing_code": "LO10047679"
-},
-
-{
-"brand_id": "P3337",
-"randing_code": "LO10124123"
-},
-
-{
-"brand_id": "P47630",
-"randing_code": "LO10101580"
-},
-
-{
-"brand_id": "P54132",
-"randing_code": "LO10122648"
-},
-
-{
-"brand_id": "P802",
-"randing_code": "LO10120013"
-},
-
-{
-"brand_id": "P37666",
-"randing_code": "LO10133872"
-},
-
-{
-"brand_id": "P10872",
-"randing_code": "LO10138023"
-},
-
-{
-"brand_id": "P12255",
-"randing_code": "LO10166138"
-},
-
-{
-"brand_id": "P64227",
-"randing_code": "LO10167089"
-},
-
-{
-"brand_id": "P60780",
-"randing_code": "LO10154930"
-},
-
-{
-"brand_id": "P672",
-"randing_code": "LD323122"
-},
-
-{
-"brand_id": "P2934",
-"randing_code": "LD479076"
-},
-
-{
-"brand_id": "P3691",
-"randing_code": "LO10006643"
-},
-
-{
-"brand_id": "P9813",
-"randing_code": "LO10018455"
-},
-
-{
-"brand_id": "P3821",
-"randing_code": "LD013535"
-},
-
-{
-"brand_id": "P2899",
-"randing_code": "LD015648"
-},
-
-{
-"brand_id": "P3432",
-"randing_code": "LD011657"
-},
-
-{
-"brand_id": "P38210",
-"randing_code": "LO10131710"
-},
-
-{
-"brand_id": "P24294",
-"randing_code": "LO10138753"
-},
-
-{
-"brand_id": "P5090",
-"randing_code": "LO10150814"
-},
-
-{
-"brand_id": "P593",
-"randing_code": "LO10058502"
-},
-
-{
-"brand_id": "P5640",
-"randing_code": "LO10061362"
-},
-
-{
-"brand_id": "P36448",
-"randing_code": "LO10041123"
-},
-
-{
-"brand_id": "P5617",
-"randing_code": "LO10031160"
-},
-
-{
-"brand_id": "P2234",
-"randing_code": "LD464161"
-},
-
-{
-"brand_id": "P2381",
-"randing_code": "LD014329"
-},
-
-{
-"brand_id": "P4231",
-"randing_code": "LD010102"
-},
-
-{
-"brand_id": "P3986",
-"randing_code": "LD467130"
-},
-
-{
-"brand_id": "P27041",
-"randing_code": "LO10166567"
-},
-
-{
-"brand_id": "P54841",
-"randing_code": "LO10169992"
-},
-
-{
-"brand_id": "P5417",
-"randing_code": "LO10124200"
-},
-
-{
-"brand_id": "P56072",
-"randing_code": "LO10131006"
-},
-
-{
-"brand_id": "P64027",
-"randing_code": "LO10166820"
-},
-
-{
-"brand_id": "P10572",
-"randing_code": "LO10154989"
-},
-
-{
-"brand_id": "P940",
-"randing_code": "LO10021160"
-},
-
-{
-"brand_id": "P3672",
-"randing_code": "LO10036153"
-},
-
-{
-"brand_id": "P1766",
-"randing_code": "LO10012187"
-},
-
-{
-"brand_id": "P1456",
-"randing_code": "LO10093483"
-},
-
-{
-"brand_id": "P5140",
-"randing_code": "LO10001477"
-},
-
-{
-"brand_id": "P24544",
-"randing_code": "LO10132477"
-},
-
-{
-"brand_id": "P12449",
-"randing_code": "LO10015019"
-},
-
-{
-"brand_id": "P44448",
-"randing_code": "LO10085787"
-},
-
-{
-"brand_id": "P64992",
-"randing_code": "LO10171161"
-},
-
-{
-"brand_id": "P8271",
-"randing_code": "LD477666"
-},
-
-{
-"brand_id": "P2759",
-"randing_code": "LO10017489"
-},
-
-{
-"brand_id": "P38183",
-"randing_code": "LO10003715"
-},
-
-{
-"brand_id": "P64487",
-"randing_code": "LO10140232"
-},
-
-{
-"brand_id": "P1625",
-"randing_code": "LD470833"
-},
-
-{
-"brand_id": "P27426",
-"randing_code": "LO10156872"
-},
-
-{
-"brand_id": "P1761",
-"randing_code": "LD452493"
-},
-
-{
-"brand_id": "P17447",
-"randing_code": "LO10004890"
-},
-
-{
-"brand_id": "P64219",
-"randing_code": "LD457844"
-},
-
-{
 "brand_id": "P2450",
+"brand_nm": "스피드랙",
 "randing_code": "LO10018474"
 },
 
 {
-"brand_id": "P65067",
-"randing_code": "LO10171146"
+"brand_id": "P64339",
+"brand_nm": "슬로우롤리",
+"randing_code": "SLO1000000221589"
 },
 
 {
-"brand_id": "P3909",
-"randing_code": "LD010891"
+"brand_id": "P31316",
+"brand_nm": "시라쿠스",
+"randing_code": "LO10030920"
 },
 
 {
-"brand_id": "P3740",
-"randing_code": "LO10151031"
+"brand_id": "P2473",
+"brand_nm": "시몬스",
+"randing_code": "LD247971"
 },
 
 {
-"brand_id": "P914",
-"randing_code": "LD410568"
+"brand_id": "P52615",
+"brand_nm": "시세이도 프로페셔널",
+"randing_code": "SLO1000000218461"
 },
 
 {
-"brand_id": "P3153",
-"randing_code": "LD015821"
+"brand_id": "P28367",
+"brand_nm": "시야쥬",
+"randing_code": "LO10095957"
 },
 
 {
-"brand_id": "P627",
-"randing_code": "LO10101186"
+"brand_id": "P7713",
+"brand_nm": "시크라인",
+"randing_code": "LO10008386"
 },
 
 {
-"brand_id": "P16054",
-"randing_code": "LO10038344"
+"brand_id": "P17696",
+"brand_nm": "시크릿라벨",
+"randing_code": "LD471399"
 },
 
 {
-"brand_id": "P11220",
-"randing_code": "LO10098635"
+"brand_id": "P2493",
+"brand_nm": "시크폭스",
+"randing_code": "LD015132"
 },
 
 {
-"brand_id": "P63800",
-"randing_code": "LO10164407"
+"brand_id": "P2495",
+"brand_nm": "시티브리즈",
+"randing_code": "LO10088524"
 },
 
 {
-"brand_id": "P48492",
-"randing_code": "LO10172711"
-},
-
-{
-"brand_id": "P3507",
-"randing_code": "LO10148773"
-},
-
-{
-"brand_id": "P65305",
-"randing_code": "LD306621"
-},
-
-{
-"brand_id": "P11504",
-"randing_code": "LO10169091"
+"brand_id": "P2511",
+"brand_nm": "신세계푸드",
+"randing_code": "LD018725"
 },
 
 {
 "brand_id": "P2518",
+"brand_nm": "실리만",
 "randing_code": "LD337612"
 },
 
 {
+"brand_id": "P2540",
+"brand_nm": "써모스",
+"randing_code": "LO10018673"
+},
+
+{
+"brand_id": "P2550",
+"brand_nm": "쓰리씨이",
+"randing_code": "SLO1000000219864"
+},
+
+{
+"brand_id": "P2573",
+"brand_nm": "씰리침대",
+"randing_code": "LD457741"
+},
+
+{
+"brand_id": "P6486",
+"brand_nm": "아디다스 골프",
+"randing_code": "SLO1000000219847"
+},
+
+{
+"brand_id": "P33474",
+"brand_nm": "아떼뷰티",
+"randing_code": "LD017279"
+},
+
+{
+"brand_id": "P2619",
+"brand_nm": "아레나",
+"randing_code": "LO10004233"
+},
+
+{
+"brand_id": "P11498",
+"brand_nm": "아림클로젯",
+"randing_code": "LO10172003"
+},
+
+{
+"brand_id": "P2633",
+"brand_nm": "아망떼",
+"randing_code": "LD020328"
+},
+
+{
+"brand_id": "P11504",
+"brand_nm": "아바몰리",
+"randing_code": "LO10169091"
+},
+
+{
+"brand_id": "P47630",
+"brand_nm": "아방",
+"randing_code": "LO10101580"
+},
+
+{
+"brand_id": "P2656",
+"brand_nm": "아벤느",
+"randing_code": "SLO1000000220167"
+},
+
+{
+"brand_id": "P13932",
+"brand_nm": "아비브",
+"randing_code": "LO10159147"
+},
+
+{
+"brand_id": "P2663",
+"brand_nm": "아소방",
+"randing_code": "SLO1000000220556"
+},
+
+{
+"brand_id": "P60502",
+"brand_nm": "아워코모스",
+"randing_code": "LO10153480"
+},
+
+{
+"brand_id": "P2681",
+"brand_nm": "아워홈",
+"randing_code": "LO10141892"
+},
+
+{
+"brand_id": "P2684",
+"brand_nm": "아이나비",
+"randing_code": "LD019674"
+},
+
+{
+"brand_id": "P2687",
+"brand_nm": "아이더",
+"randing_code": "SLO1000000203063"
+},
+
+{
+"brand_id": "P2694",
+"brand_nm": "아이러브제이",
+"randing_code": "LD475578"
+},
+
+{
+"brand_id": "P2709",
+"brand_nm": "아이소이",
+"randing_code": "LD235972"
+},
+
+{
+"brand_id": "P2720",
+"brand_nm": "아이오페",
+"randing_code": "SLO1000000000039"
+},
+
+{
+"brand_id": "P2725",
+"brand_nm": "아이정",
+"randing_code": "LD464942"
+},
+
+{
+"brand_id": "P60683",
+"brand_nm": "아카라",
+"randing_code": "LO10161807"
+},
+
+{
+"brand_id": "P2759",
+"brand_nm": "아토팜",
+"randing_code": "LO10017489"
+},
+
+{
+"brand_id": "P64219",
+"brand_nm": "아트박스",
+"randing_code": "LD457844"
+},
+
+{
+"brand_id": "P57916",
+"brand_nm": "아티드",
+"randing_code": "LO10166974"
+},
+
+{
+"brand_id": "P64227",
+"brand_nm": "아흐레",
+"randing_code": "LO10167089"
+},
+
+{
+"brand_id": "P18688",
+"brand_nm": "안나홀츠",
+"randing_code": "LO10006618"
+},
+
+{
+"brand_id": "P29352",
+"brand_nm": "안젤로비안코",
+"randing_code": "LO10159591"
+},
+
+{
+"brand_id": "P64453",
+"brand_nm": "안토메",
+"randing_code": "LO10167563"
+},
+
+{
+"brand_id": "P47991",
+"brand_nm": "알라미아",
+"randing_code": "LO10105352"
+},
+
+{
+"brand_id": "P2797",
+"brand_nm": "알파",
+"randing_code": "LD011242"
+},
+
+{
+"brand_id": "P2806",
+"brand_nm": "압타밀",
+"randing_code": "LD476588"
+},
+
+{
+"brand_id": "P2808",
+"brand_nm": "애경",
+"randing_code": "LO10053277"
+},
+
+{
+"brand_id": "P30282",
+"brand_nm": "애니바디",
+"randing_code": "SLO1000000219369"
+},
+
+{
+"brand_id": "P65296",
+"brand_nm": "애니웨이",
+"randing_code": "LO10041384"
+},
+
+{
+"brand_id": "P2820",
+"brand_nm": "애플",
+"randing_code": "LD304400"
+},
+
+{
+"brand_id": "P8971",
+"brand_nm": "앱토",
+"randing_code": "LD472049"
+},
+
+{
+"brand_id": "P29198",
+"brand_nm": "어반드레스",
+"randing_code": "SLO1000000218039"
+},
+
+{
+"brand_id": "P60331",
+"brand_nm": "언더오프",
+"randing_code": "LO10140103"
+},
+
+{
+"brand_id": "P2899",
+"brand_nm": "에뛰드",
+"randing_code": "LD015648"
+},
+
+{
+"brand_id": "P2919",
+"brand_nm": "에보니아",
+"randing_code": "LD015264"
+},
+
+{
+"brand_id": "P2923",
+"brand_nm": "에블린",
+"randing_code": "SLO1000000003954"
+},
+
+{
+"brand_id": "P13530",
+"brand_nm": "에비뉴다이아몬드",
+"randing_code": "LD475028"
+},
+
+{
+"brand_id": "P26062",
+"brand_nm": "에스네이처",
+"randing_code": "LO10160853"
+},
+
+{
+"brand_id": "P2934",
+"brand_nm": "에스"아",
+"randing_code": "LD479076"
+},
+
+{
+"brand_id": "P2945",
+"brand_nm": "에스콰이아",
+"randing_code": "LD019051"
+},
+
+{
+"brand_id": "P15637",
+"brand_nm": "에어워크 서프",
+"randing_code": "LD320255"
+},
+
+{
+"brand_id": "P2984",
+"brand_nm": "에이스침대",
+"randing_code": "LD264993"
+},
+
+{
+"brand_id": "P8986",
+"brand_nm": "에이엠티",
+"randing_code": "LO10019983"
+},
+
+{
+"brand_id": "P2991",
+"brand_nm": "에이와비",
+"randing_code": "LD475099"
+},
+
+{
+"brand_id": "P3006",
+"brand_nm": "에잇세컨즈",
+"randing_code": "SLO1000000015016"
+},
+
+{
+"brand_id": "P29139",
+"brand_nm": "에트몽",
+"randing_code": "LO10160336"
+},
+
+{
+"brand_id": "P37397",
+"brand_nm": "엘르 스윔웨어",
+"randing_code": "LO10153279"
+},
+
+{
+"brand_id": "P18728",
+"brand_nm": "엘리자베스스튜어트",
+"randing_code": "LO10005652"
+},
+
+{
+"brand_id": "P3081",
+"brand_nm": "엘리자벳",
+"randing_code": "LD016877"
+},
+
+{
+"brand_id": "P3095",
+"brand_nm": "엘칸토",
+"randing_code": "LD014405"
+},
+
+{
+"brand_id": "P3107",
+"brand_nm": "엠미소페",
+"randing_code": "LD303825"
+},
+
+{
+"brand_id": "P3132",
+"brand_nm": "엠포리오 아르마니",
+"randing_code": "SLO1000000217655"
+},
+
+{
+"brand_id": "P3153",
+"brand_nm": "영창",
+"randing_code": "LD015821"
+},
+
+{
+"brand_id": "P38449",
+"brand_nm": "예일 키즈",
+"randing_code": "LD469544"
+},
+
+{
+"brand_id": "P3186",
+"brand_nm": "오르시떼",
+"randing_code": "LO10143646"
+},
+
+{
+"brand_id": "P5964",
+"brand_nm": "오리온",
+"randing_code": "LD465038"
+},
+
+{
+"brand_id": "P16614",
+"brand_nm": "오브라",
+"randing_code": "SLO1000000221159"
+},
+
+{
+"brand_id": "P64469",
+"brand_nm": "오셀픽",
+"randing_code": "LO10168970"
+},
+
+{
+"brand_id": "P3225",
+"brand_nm": "오투",
+"randing_code": "LD305328"
+},
+
+{
+"brand_id": "P54841",
+"brand_nm": "오프아워",
+"randing_code": "LO10169992"
+},
+
+{
+"brand_id": "P60516",
+"brand_nm": "오피덤",
+"randing_code": "LO10130975"
+},
+
+{
+"brand_id": "P3242",
+"brand_nm": "온앤온",
+"randing_code": "LD018712"
+},
+
+{
+"brand_id": "P3252",
+"brand_nm": "올리브데올리브",
+"randing_code": "LD366865"
+},
+
+{
+"brand_id": "P56072",
+"brand_nm": "와르",
+"randing_code": "LO10131006"
+},
+
+{
+"brand_id": "P64506",
+"brand_nm": "와이오와이",
+"randing_code": "SLO1000000219584"
+},
+
+{
+"brand_id": "P3294",
+"brand_nm": "왕자행거",
+"randing_code": "LD015442"
+},
+
+{
+"brand_id": "P3300",
+"brand_nm": "요이츠",
+"randing_code": "SLO1000000219583"
+},
+
+{
+"brand_id": "P3307",
+"brand_nm": "우르오스",
+"randing_code": "SLO1000000219869"
+},
+
+{
+"brand_id": "P5617",
+"brand_nm": "울랄라",
+"randing_code": "LO10031160"
+},
+
+{
+"brand_id": "P64027",
+"brand_nm": "울산 HD FC",
+"randing_code": "LO10166820"
+},
+
+{
+"brand_id": "P6504",
+"brand_nm": "울스포츠",
+"randing_code": "SLO1000000219838"
+},
+
+{
+"brand_id": "P3337",
+"brand_nm": "웨스트우드",
+"randing_code": "LO10124123"
+},
+
+{
+"brand_id": "P32928",
+"brand_nm": "윌비워크웨어",
+"randing_code": "SLO1000000218485"
+},
+
+{
+"brand_id": "P47447",
+"brand_nm": "윙블링",
+"randing_code": "LO10102639"
+},
+
+{
+"brand_id": "P3400",
+"brand_nm": "유세린",
+"randing_code": "SLO1000000220509"
+},
+
+{
+"brand_id": "P3422",
+"brand_nm": "이고진",
+"randing_code": "LD459963"
+},
+
+{
+"brand_id": "P3432",
+"brand_nm": "이니스프리",
+"randing_code": "LD011657"
+},
+
+{
+"brand_id": "P61210",
+"brand_nm": "이비엠",
+"randing_code": "SLO1000000219591"
+},
+
+{
+"brand_id": "P61789",
+"brand_nm": "이스케이프프롬",
+"randing_code": "LO10101890"
+},
+
+{
+"brand_id": "P9813",
+"brand_nm": "이에르로르",
+"randing_code": "LO10018455"
+},
+
+{
+"brand_id": "P3471",
+"brand_nm": "이자녹스",
+"randing_code": "SLO1000000206952"
+},
+
+{
+"brand_id": "P3507",
+"brand_nm": "인스타360",
+"randing_code": "LO10148773"
+},
+
+{
+"brand_id": "P3556",
+"brand_nm": "잉글랜더",
+"randing_code": "LD012645"
+},
+
+{
+"brand_id": "P3578",
+"brand_nm": "자주",
+"randing_code": "SLD3880400"
+},
+
+{
+"brand_id": "P3580",
+"brand_nm": "자코모",
+"randing_code": "LD015467"
+},
+
+{
+"brand_id": "P3592",
+"brand_nm": "장수돌침대",
+"randing_code": "LD013855"
+},
+
+{
+"brand_id": "P3593",
+"brand_nm": "장인가구",
+"randing_code": "LD458071"
+},
+
+{
+"brand_id": "P25898",
+"brand_nm": "장폴클라리쎄",
+"randing_code": "LO10119733"
+},
+
+{
+"brand_id": "P3607",
+"brand_nm": "정관장",
+"randing_code": "LD305226"
+},
+
+{
+"brand_id": "P3609",
+"brand_nm": "정샘물",
+"randing_code": "LO10071283"
+},
+
+{
+"brand_id": "P5417",
+"brand_nm": "제로그램",
+"randing_code": "LO10124200"
+},
+
+{
+"brand_id": "P29399",
+"brand_nm": "제로스트릿",
+"randing_code": "LO10151163"
+},
+
+{
+"brand_id": "P3640",
+"brand_nm": "제이스타일",
+"randing_code": "LD290863"
+},
+
+{
+"brand_id": "P3648",
+"brand_nm": "제이에스티나",
+"randing_code": "LD018703"
+},
+
+{
+"brand_id": "P11929",
+"brand_nm": "제인코트",
+"randing_code": "SLO1000000220606"
+},
+
+{
+"brand_id": "P3672",
+"brand_nm": "제테스",
+"randing_code": "LO10036153"
+},
+
+{
+"brand_id": "P9080",
+"brand_nm": "제트",
+"randing_code": "SLO1000000219837"
+},
+
+{
+"brand_id": "P3691",
+"brand_nm": "조셉앤스테이시",
+"randing_code": "LO10006643"
+},
+
+{
+"brand_id": "P3712",
+"brand_nm": "종근당건강",
+"randing_code": "LD252201"
+},
+
+{
+"brand_id": "P3716",
+"brand_nm": "좋은느낌",
+"randing_code": "SLO1000000219856"
+},
+
+{
+"brand_id": "P64545",
+"brand_nm": "주디앤",
+"randing_code": "LO10106942"
+},
+
+{
+"brand_id": "P56791",
+"brand_nm": "주영엔에스",
+"randing_code": "LO10137228"
+},
+
+{
+"brand_id": "P3731",
+"brand_nm": "쥬시쥬디",
+"randing_code": "SLO1000000217426"
+},
+
+{
+"brand_id": "P3734",
+"brand_nm": "쥬크",
+"randing_code": "SLO1000000015239"
+},
+
+{
+"brand_id": "P3737",
+"brand_nm": "지고트",
+"randing_code": "LD476784"
+},
+
+{
+"brand_id": "P3740",
+"brand_nm": "지누스",
+"randing_code": "LO10151031"
+},
+
+{
+"brand_id": "P3764",
+"brand_nm": "지오다노",
+"randing_code": "LD013007"
+},
+
+{
+"brand_id": "P48492",
+"brand_nm": "직방스마트홈",
+"randing_code": "LO10172711"
+},
+
+{
+"brand_id": "P45328",
+"brand_nm": "질스튜어트 뷰티",
+"randing_code": "LO10095760"
+},
+
+{
+"brand_id": "P3809",
+"brand_nm": "차앤박",
+"randing_code": "SLO1000000206829"
+},
+
+{
+"brand_id": "P18883",
+"brand_nm": "착한구두",
+"randing_code": "LO10003281"
+},
+
+{
+"brand_id": "P15535",
+"brand_nm": "참도깨비",
+"randing_code": "LO10009066"
+},
+
+{
+"brand_id": "P3821",
+"brand_nm": "참존",
+"randing_code": "LD013535"
+},
+
+{
+"brand_id": "P3823",
+"brand_nm": "창신리빙",
+"randing_code": "LO10164336"
+},
+
+{
+"brand_id": "P57731",
+"brand_nm": "천일식품",
+"randing_code": "LO10027199"
+},
+
+{
+"brand_id": "P3847",
+"brand_nm": "청정원",
+"randing_code": "LO10018597"
+},
+
+{
+"brand_id": "P39834",
+"brand_nm": "초공진",
+"randing_code": "SLO1000000218364"
+},
+
+{
+"brand_id": "P16615",
+"brand_nm": "카디뷰",
+"randing_code": "SLO1000000221160"
+},
+
+{
+"brand_id": "P3883",
+"brand_nm": "카멜마운트",
+"randing_code": "LD458649"
+},
+
+{
+"brand_id": "P3884",
+"brand_nm": "카밀",
+"randing_code": "SLO1000000221114"
+},
+
+{
+"brand_id": "P3909",
+"brand_nm": "카피어랜드",
+"randing_code": "LD010891"
+},
+
+{
+"brand_id": "P61708",
+"brand_nm": "캄투올",
+"randing_code": "SLO1000000218462"
+},
+
+{
+"brand_id": "P3918",
+"brand_nm": "캐나다구스",
+"randing_code": "SLO1000000218692"
+},
+
+{
+"brand_id": "P64992",
+"brand_nm": "캐치볼",
+"randing_code": "LO10171161"
+},
+
+{
+"brand_id": "P36448",
+"brand_nm": "캔마트",
+"randing_code": "LO10041123"
+},
+
+{
+"brand_id": "P21734",
+"brand_nm": "커리쉴",
+"randing_code": "LO10009741"
+},
+
+{
+"brand_id": "P12052",
+"brand_nm": "커버낫",
+"randing_code": "SLO1000000218958"
+},
+
+{
+"brand_id": "P3986",
+"brand_nm": "컴포트랩",
+"randing_code": "LD467130"
+},
+
+{
+"brand_id": "P32477",
+"brand_nm": "케이투바이크",
+"randing_code": "LO10026698"
+},
+
+{
+"brand_id": "P4034",
+"brand_nm": "코렐",
+"randing_code": "LO10156113"
+},
+
+{
+"brand_id": "P4087",
+"brand_nm": "콜핑",
+"randing_code": "LD455007"
+},
+
+{
+"brand_id": "P64941",
+"brand_nm": "쿠자",
+"randing_code": "LO10171191"
+},
+
+{
+"brand_id": "P4107",
+"brand_nm": "쿤달",
+"randing_code": "SLO1000000218345"
+},
+
+{
+"brand_id": "P5474",
+"brand_nm": "크로커다일 이너웨어",
+"randing_code": "LO10006334"
+},
+
+{
+"brand_id": "P4135",
+"brand_nm": "크리넥스",
+"randing_code": "SLO1000000219855"
+},
+
+{
+"brand_id": "P4151",
+"brand_nm": "클라비스",
+"randing_code": "SLO1000000014711"
+},
+
+{
+"brand_id": "P65067",
+"brand_nm": "클라우망스탠다드",
+"randing_code": "LO10171146"
+},
+
+{
+"brand_id": "P4165",
+"brand_nm": "클로란",
+"randing_code": "SLO1000000220168"
+},
+
+{
+"brand_id": "P4178",
+"brand_nm": "키스미",
+"randing_code": "LO10142338"
+},
+
+{
+"brand_id": "P4209",
+"brand_nm": "타미진스",
+"randing_code": "SLD0172330"
+},
+
+{
+"brand_id": "P4231",
+"brand_nm": "타티아나",
+"randing_code": "LD010102"
+},
+
+{
+"brand_id": "P4248",
+"brand_nm": "탠디",
+"randing_code": "LO10003360"
+},
+
+{
+"brand_id": "P64487",
+"brand_nm": "탭앤탭",
+"randing_code": "LO10140232"
+},
+
+{
+"brand_id": "P5886",
+"brand_nm": "탱글티저",
+"randing_code": "SLO1000000221126"
+},
+
+{
+"brand_id": "P12167",
+"brand_nm": "터치인솔",
+"randing_code": "SLO1000000219881"
+},
+
+{
+"brand_id": "P4256",
+"brand_nm": "테리파머",
+"randing_code": "LD281658"
+},
+
+{
+"brand_id": "P57050",
+"brand_nm": "테일러메이드 어패럴",
+"randing_code": "SLO1000000212881"
+},
+
+{
+"brand_id": "P4272",
+"brand_nm": "토니모리",
+"randing_code": "LO10004403"
+},
+
+{
+"brand_id": "P4276",
+"brand_nm": "토드비",
+"randing_code": "LD475461"
+},
+
+{
+"brand_id": "P13921",
+"brand_nm": "토리든",
+"randing_code": "LO10006654"
+},
+
+{
+"brand_id": "P4279",
+"brand_nm": "토리버치",
+"randing_code": "SLO1000000217659"
+},
+
+{
+"brand_id": "P4317",
+"brand_nm": "트라이",
+"randing_code": "LD455902"
+},
+
+{
+"brand_id": "P63576",
+"brand_nm": "트윈웨일",
+"randing_code": "LO10160184"
+},
+
+{
+"brand_id": "P4351",
+"brand_nm": "티르리르",
+"randing_code": "LO10002322"
+},
+
+{
+"brand_id": "P21",
+"brand_nm": "티에스",
+"randing_code": "SLO1000000221113"
+},
+
+{
+"brand_id": "P17447",
+"brand_nm": "티에스스포츠",
+"randing_code": "LO10004890"
+},
+
+{
+"brand_id": "P29784",
+"brand_nm": "틸아이다이",
+"randing_code": "LO10112547"
+},
+
+{
+"brand_id": "P32997",
+"brand_nm": "파르페by알레르망",
+"randing_code": "LO10020896"
+},
+
+{
+"brand_id": "P7171",
+"brand_nm": "파미지오",
+"randing_code": "LD470066"
+},
+
+{
+"brand_id": "P4394",
+"brand_nm": "파슬",
+"randing_code": "SLO1000000218172"
+},
+
+{
+"brand_id": "P4403",
+"brand_nm": "파인뷰",
+"randing_code": "LD018069"
+},
+
+{
+"brand_id": "P4409",
+"brand_nm": "파크론",
+"randing_code": "SLO1000000220555"
+},
+
+{
+"brand_id": "P4438",
+"brand_nm": "팸퍼스",
+"randing_code": "LD014882"
+},
+
+{
+"brand_id": "P12255",
+"brand_nm": "페르시안캣",
+"randing_code": "LO10166138"
+},
+
+{
+"brand_id": "P4459",
+"brand_nm": "페리미츠",
+"randing_code": "LO10035571"
+},
+
+{
+"brand_id": "P17366",
+"brand_nm": "페슬로",
+"randing_code": "LO10065371"
+},
+
+{
+"brand_id": "P12762",
+"brand_nm": "페트레이",
+"randing_code": "SLO1000000218651"
+},
+
+{
+"brand_id": "P37666",
+"brand_nm": "포레스트핏",
+"randing_code": "LO10133872"
+},
+
+{
+"brand_id": "P65044",
+"brand_nm": "포스트맨",
+"randing_code": "LO10171493"
+},
+
+{
+"brand_id": "P4524",
+"brand_nm": "포트메리온",
+"randing_code": "LO10117119"
+},
+
+{
+"brand_id": "P4533",
+"brand_nm": "폴로 랄프로렌",
+"randing_code": "LO10115192"
+},
+
+{
+"brand_id": "P49544",
+"brand_nm": "푸마 바디웨어",
+"randing_code": "LO10133074"
+},
+
+{
+"brand_id": "P47810",
+"brand_nm": "프레시안",
+"randing_code": "SLO1000000206953"
+},
+
+{
+"brand_id": "P13703",
+"brand_nm": "프레시지",
+"randing_code": "LD472692"
+},
+
+{
+"brand_id": "P9434",
+"brand_nm": "프레티",
+"randing_code": "LD467749"
+},
+
+{
+"brand_id": "P4605",
+"brand_nm": "프로쉬",
+"randing_code": "LD479682"
+},
+
+{
+"brand_id": "P44448",
+"brand_nm": "프로즌",
+"randing_code": "LO10085787"
+},
+
+{
+"brand_id": "P47613",
+"brand_nm": "프리스틴",
+"randing_code": "LO10103025"
+},
+
+{
+"brand_id": "P55083",
+"brand_nm": "프린텍",
+"randing_code": "SLO1000000221157"
+},
+
+{
+"brand_id": "P55904",
+"brand_nm": "플라워 몬스터",
+"randing_code": "LO10132219"
+},
+
+{
+"brand_id": "P44911",
+"brand_nm": "플래지어",
+"randing_code": "LO10085842"
+},
+
+{
+"brand_id": "P4658",
+"brand_nm": "플로라",
+"randing_code": "LD304058"
+},
+
+{
+"brand_id": "P4659",
+"brand_nm": "플루크",
+"randing_code": "SLO1000000219749"
+},
+
+{
+"brand_id": "P53752",
+"brand_nm": "플르부아",
+"randing_code": "LO10161429"
+},
+
+{
+"brand_id": "P62921",
+"brand_nm": "피지컬가먼츠",
+"randing_code": "LO10162228"
+},
+
+{
+"brand_id": "P4700",
+"brand_nm": "필립스",
+"randing_code": "LO10109568"
+},
+
+{
+"brand_id": "P4712",
+"brand_nm": "핏플랍",
+"randing_code": "SLO1000000218808"
+},
+
+{
+"brand_id": "P4717",
+"brand_nm": "핑크시슬리",
+"randing_code": "LD463454"
+},
+
+{
+"brand_id": "P55517",
+"brand_nm": "핑크존",
+"randing_code": "LO10014162"
+},
+
+{
+"brand_id": "P4720",
+"brand_nm": "하기스",
+"randing_code": "SLO1000000219859"
+},
+
+{
+"brand_id": "P60972",
+"brand_nm": "하네",
+"randing_code": "LO10168183"
+},
+
+{
+"brand_id": "P4730",
+"brand_nm": "하림펫푸드",
+"randing_code": "LD469350"
+},
+
+{
+"brand_id": "P12390",
+"brand_nm": "하이드로 플라스크",
+"randing_code": "LO10156220"
+},
+
+{
+"brand_id": "P49472",
+"brand_nm": "하프크라이즈 레이아웃",
+"randing_code": "SLO1000000209094"
+},
+
+{
+"brand_id": "P4768",
+"brand_nm": "한샘",
+"randing_code": "LD015505"
+},
+
+{
+"brand_id": "P4818",
+"brand_nm": "해피콜",
+"randing_code": "LD475711"
+},
+
+{
+"brand_id": "P4819",
+"brand_nm": "해피프린스",
+"randing_code": "LD471282"
+},
+
+{
+"brand_id": "P12424",
+"brand_nm": "허시파피",
+"randing_code": "LD479675"
+},
+
+{
+"brand_id": "P57391",
+"brand_nm": "헤르마",
+"randing_code": "LO10167087"
+},
+
+{
+"brand_id": "P4841",
+"brand_nm": "헤링본",
+"randing_code": "LD466693"
+},
+
+{
+"brand_id": "P65148",
+"brand_nm": "헤이에이",
+"randing_code": "SLO1000000220531"
+},
+
+{
+"brand_id": "P4854",
+"brand_nm": "헤지스 레이디스",
+"randing_code": "SLO1000000015008"
+},
+
+{
 "brand_id": "P49055",
+"brand_nm": "헨리메인",
 "randing_code": "LO10173243"
+}
+]
+
+{
+"brand_id": "P4867",
+"brand_nm": "헬렌스타인",
+"randing_code": "LD014804"
+},
+
+{
+"brand_id": "P7400",
+"brand_nm": "현대의료기",
+"randing_code": "LD282757"
+},
+
+{
+"brand_id": "P4891",
+"brand_nm": "홀리카홀리카",
+"randing_code": "LD452667"
+},
+
+{
+"brand_id": "P48392",
+"brand_nm": "홈리",
+"randing_code": "SLO1000000220568"
+},
+
+{
+"brand_id": "P54445",
+"brand_nm": "홈앤미",
+"randing_code": "LD434693"
+},
+
+{
+"brand_id": "P12449",
+"brand_nm": "홍대쭈꾸미",
+"randing_code": "LO10015019"
+},
+
+{
+"brand_id": "P4901",
+"brand_nm": "화이트",
+"randing_code": "SLO1000000219857"
+},
+
+{
+"brand_id": "P18771",
+"brand_nm": "화이트샌즈",
+"randing_code": "LD479829"
+},
+
+{
+"brand_id": "P4914",
+"brand_nm": "후아유",
+"randing_code": "SLO1000000014925"
+},
+
+{
+"brand_id": "P4922",
+"brand_nm": "휘슬러",
+"randing_code": "LD451999"
+},
+
+{
+"brand_id": "P4924",
+"brand_nm": "휠라",
+"randing_code": "SLO1000000209950"
+},
+
+{
+"brand_id": "P64377",
+"brand_nm": "휩드",
+"randing_code": "LO10168526"
+},
+
+{
+"brand_id": "P44752",
+"brand_nm": "휴고",
+"randing_code": "SLO1000000015887"
+},
+
+{
+"brand_id": "P22178",
+"brand_nm": "휴도",
+"randing_code": "LO10171727"
+},
+
+{
+"brand_id": "P24294",
+"brand_nm": "힐리먼트",
+"randing_code": "LO10138753"
 }
 ]
